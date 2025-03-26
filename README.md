@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @kunoichiiii
+- 👋 Hi, I’m @Yuting MO
 - 👀 I’m interested in sporting
 - 🌱 I’m currently learning ML
 - 💞️ I’m looking to collaborate on ...
